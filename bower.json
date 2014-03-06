@@ -1,0 +1,17 @@
+{
+    "name": "Nested List",
+    "version": "1.0.0",
+    "dependencies": {
+        "jquery": null,
+        "underscore": null,
+        "requirejs": null,
+        "angular": null,
+        "angular-bootstrap": null,
+        "bootstrap": null,
+        "angular-ui": null,
+        "fontawesome": null,
+        "less.js": null,
+        "togetherjs": null,
+        "animate.css": null
+    }
+}
